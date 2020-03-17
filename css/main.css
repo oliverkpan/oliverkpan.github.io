@@ -109,6 +109,10 @@ body {
 	padding: 0;
 }
 
+img {
+	border-radius: 50%;
+}
+
 /* -------------------------------------------------------------------
  * links - (_document-setup)
  * ------------------------------------------------------------------- */
@@ -2179,7 +2183,6 @@ header .header-logo a {
 	min-height: 800px;
 	position: relative;
 	padding: 12rem 0 9.6rem;
-	color: rgba(255, 255, 255, 0.3);
 }
 
 #skills .overlay {
