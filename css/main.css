@@ -109,10 +109,6 @@ body {
 	padding: 0;
 }
 
-img {
-	border-radius: 50%;
-}
-
 /* -------------------------------------------------------------------
  * links - (_document-setup)
  * ------------------------------------------------------------------- */
@@ -1263,7 +1259,6 @@ input::-moz-focus-inner {
 	display: inline-block;
 	height: 1px;
 	width: 240px;
-	background-color: #dedede;
 	text-align: center;
 }
 
@@ -1640,7 +1635,7 @@ header .header-logo a {
 	background: #202D5B;
 	width: 100%;
 	height: 100%;
-	background-image: url(../images/bg.jpg);
+	background-image: url(../images/bg1.jpg);
 	background-repeat: no-repeat;
 	background-position: center;
 	-webkit-background-size: cover;
@@ -2173,14 +2168,14 @@ header .header-logo a {
  *
  * ------------------------------------------------------------------- */
 #skills {
-	background-color: #1f0e01;
-	background-image: url(../images/skills-bg.jpg);
+	background-color: #FAFAFA;
+	background-image: url(../images/ab.png);
 	background-repeat: no-repeat;
 	background-position: center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
-	min-height: 800px;
+	min-height: 600px;
 	position: relative;
 	padding: 12rem 0 9.6rem;
 }
@@ -2217,17 +2212,13 @@ header .header-logo a {
 	padding-right: 0;
 }
 
-#skills .section-intro {
-	text-align: left;
-}
-
 #skills .section-intro h3 {
 	color: rgba(255, 255, 255, 0.35);
 	color: #27335E;
 }
 
 #skills .section-intro h1 {
-	color: #FFFFFF;
+	color: #06215A;
 }
 
 #skills .skill-bars {
