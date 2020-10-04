@@ -24,7 +24,7 @@
  *
  * =================================================================== */
 
-
+ 
 /* ===================================================================
  *  01. webfonts and iconfonts - (_document-setup)
  *
@@ -136,7 +136,6 @@ h1, h2, h3, h4, h5, h6, .h01, .h02, .h03, .h04, .h05, .h06 {
 	color: #151515;
 	font-style: normal;
 	text-rendering: optimizeLegibility;
-	margin-bottom: 2.1rem;
 }
 
 h3, .h03, h4, .h04 {
@@ -1696,9 +1695,9 @@ header .header-logo a {
 
 .home-content-tablecell h1 {
 	font-family: "librebaskerville-bold", serif;
-	font-size: 5.2rem;
+	font-size: 13.2rem;
 	line-height: 1.5;
-	color: #FFFFFF;
+	color: #FFFFFF;	
 }
 
 .home-content-tablecell .home-section-links {
@@ -1713,7 +1712,7 @@ header .header-logo a {
 	font-size: 1.4rem;
 	text-transform: uppercase;
 	letter-spacing: .1rem;
-	color: rgba(255, 255, 255, 0.35);
+	color: rgba(255, 255, 255, 0.7);
 	margin-right: 1.5rem;
 	margin-bottom: .6rem;
 }
@@ -1724,7 +1723,7 @@ header .header-logo a {
 
 .home-content-tablecell .home-section-links a {
 	font-family: "librebaskerville-regular", serif;
-	font-size: 1.8rem;
+	font-size: 2.1rem;
 	text-transform: none;
 	letter-spacing: 0;
 	color: #FFFFFF;
